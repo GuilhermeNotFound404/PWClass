@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sql\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sql\\.nuget\\packages"
+    ]
+  }
+}
